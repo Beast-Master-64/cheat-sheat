@@ -1,3 +1,30 @@
+## types of data
+- text data= "hello"
+- true or false data= true or false
+- number data= 100
+## creating variables
+1. write down let
+```javascript
+let
+```
+2.write down the name
+```javascript
+let yishai
+```
+3.add =
+```javascript
+let yishai = 
+```
+4. add any type of data
+```javascript
+let  name1= true;
+```
+```javascript
+let name2= "text";
+```
+```javascript
+let name3 = 1;
+```
 ## Steps to writing a if statment
 
 1. write down if 
