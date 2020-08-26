@@ -25,6 +25,25 @@ let name2= "text";
 ```javascript
 let name3 = 1;
 ```
+## existing functions
+- console.log=displaying something in the console
+```javascript
+console.log ("hello");
+let v =1;
+console.log (v);
+```
+- prompt=displaying somthing on the users screen and returns what the user typed in
+```javascript
+let userdata = prompt ("how are you");
+```
+- alert = displays something on the users screen
+```javascript
+alert ("how are you");
+```
+```javascript
+let user = "hi"
+alert (user);
+```
 ## Steps to writing a if statment
 
 1. write down if 
