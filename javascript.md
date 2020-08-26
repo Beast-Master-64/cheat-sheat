@@ -1,3 +1,37 @@
+## Steps to writing a if statment
+
+1. write down if 
+```javascript
+if
+```
+2. put in ()
+```javascript
+if ()
+```
+3. put in {}
+```javascript
+if (){
+
+}
+```
+4. put in code that = true or false
+```javascript
+if (true){
+
+}
+```
+```javascript
+let age=12;
+if (age ==12){
+
+}
+```
+```javascript
+let name="yishai";
+if (name=="yishai"){
+
+}
+```
 ## Steps to writing a function
 
 1. write down functon amf the name of the function
