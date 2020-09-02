@@ -120,7 +120,32 @@ nameoffunction ();
 ```javascript
 nameoffunction ("perameter",1);
 ```
+## objects
 
+an object is a variable that can store multiple values
+
+the key is the part after the dot
+
+damage.**headshot**=60;
+
+the value is whatever the key =
+
+damage.headshot=**60**;
+1. creat the object
+```javascript
+let damage = {};
+damage.headshot=60;
+damage.bodyshot=30;
+damage.health=100;
+damage.healthdamage=function (){
+damage.health=damage.health-30;
+}
+```
+2. using objects
+```javascript
+console.log (damage.headshot, damage.bodyshot, damage.health);
+damage.healthdamage();
+```
 
 
 
