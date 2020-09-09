@@ -146,16 +146,85 @@ damage.health=damage.health-30;
 console.log (damage.headshot, damage.bodyshot, damage.health);
 damage.healthdamage();
 ```
+## what a list is
+a variable that can store multiple values 
+## create arrays and lists
+1.make a variable
+```javascript
+let list
+```
+2. set the variable = to something and use square brackets
+```javascript
+let list = [];
+```
+3. (optinal) start a list with data in it
+```javascript
+let list = [1, 2, 3];
+```
+## how to get something from the list
+1. write name of variable
+```javascript
+list
+```
+2. write down square brackets
+```javascript
+list[]
+```
+3. put in the number
+```javascript
+list[0]
+```
+4. the list starts from 0
+## how to add to the list
+1. write down the variables name
+```javascript
+list
+```
+2. write down ".push"
+```javascript
+list.push
+```
+3. add ()
+```javascript
+list.push ();
+```
+4. write down the data
+```javascript
+list.push (1, 2, 3);
+```
+## forEach
+1. what is forEach
+it is used to go through each element in the array
+2. write the variable name down
+```javascript
+list
+```
+3. write the word forEach next to the variable
+```javascript
+list.forEach
+```
+4. add ()
+```javascript
+list.forEach ()
+```
+5. write the word function
+```javascript
+list.forEach (function)
+```
+6. add ()
+```javascript
+list.forEach (function())
+```
+7. write down the parameters
+```javascript
+list.forEach (function(item, index))
+```
+8. add {}
+```javascript
+list.forEach (function(item, index){
 
-
-
-
-
-
-
-
-
-
+})
+```
 
 
 
